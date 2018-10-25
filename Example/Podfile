@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SpringKits_Example' do
+  pod 'SpringKits', :path => '../'
+
+  target 'SpringKits_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
