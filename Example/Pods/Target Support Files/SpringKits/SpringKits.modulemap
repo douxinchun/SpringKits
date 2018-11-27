@@ -1,0 +1,6 @@
+framework module SpringKits {
+  umbrella header "SpringKits-umbrella.h"
+
+  export *
+  module * { export * }
+}

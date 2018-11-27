@@ -1,0 +1,16 @@
+PODS:
+  - SpringKits (0.1.0)
+
+DEPENDENCIES:
+  - SpringKits (from `../`)
+
+EXTERNAL SOURCES:
+  SpringKits:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SpringKits: 81bc2904284c33a94bb21536fbb9d6e9422f3dfd
+
+PODFILE CHECKSUM: 35eecf5b89ea0d35675fd526c836fd46805eb87d
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module Pods_SpringKits_Example {
+  umbrella header "Pods-SpringKits_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
